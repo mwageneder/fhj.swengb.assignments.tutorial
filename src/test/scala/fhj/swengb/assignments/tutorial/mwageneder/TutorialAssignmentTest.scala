@@ -19,7 +19,7 @@ class TutorialAssignmentTest {
     * -> you have to provide a method called "hello"
     * -> you have to return a string with a specific content (see test)
     * -> put the TutorialAssignmentTest in the same package like the
-    *    TutorialAssignment object.
+    *    TutorialAssignment object.test
     *
     * -> push it to your github account
     *
