@@ -1,5 +1,6 @@
-package fhj.swengb.assignments.tutorial.rladstaetter
+package fhj.swengb.assignments.tutorial.mwageneder
 
+import fhj.swengb.assignments.tutorial.mwageneder.TutorialAssignment
 import org.junit.Assert._
 import org.junit.Test
 
